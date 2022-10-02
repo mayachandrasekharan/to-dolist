@@ -1,0 +1,20 @@
+.disabledList{
+    
+    pointer-events:none; 
+    opacity:0.6;        
+
+}
+
+
+#mainnavbar{
+    background: rgb(46, 170, 204);
+}
+.navbar-nav {
+    float:right;
+    /* border: 1px solid black; */
+    
+}
+footer{
+    margin-top: 700px;
+    margin-left: 650px;
+}
